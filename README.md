@@ -40,7 +40,7 @@ Instalaré Renpy en mi ordenador, y me pondré a investigar como funciona y estu
   
 Escribiré una historia relativamente simple, pero divertida y con humor, relacionada con el grado superior. Además trataré de dibujar como pueda los personajes y los escenarios con la tablet.  
   
-Una vez lo tenga todo preparado, empezaré a picar código e añadir tantas cosas como pueda. Cada personaje tendrá su reacción (por ejemplo: feliz cuando haya acertado más de 5 preguntas, neutral si ha acertado 5, enfadado si ha acertado menos de 5, etc.)  
+Una vez lo tenga todo preparado, empezaré a picar código y añadir tantas cosas como pueda. Cada personaje tendrá su reacción (por ejemplo: feliz cuando haya acertado más de 5 preguntas, neutral si ha acertado 5, enfadado si ha acertado menos de 5, etc.)  
   
 Por supuesto, le daré al jugador varias opciones al principio del juego, como el idioma, los gráficos, etc.  
   
