@@ -43,3 +43,5 @@ Escribiré una historia relativamente simple, pero divertida y con humor, relaci
 Una vez lo tenga todo preparado, empezaré a picar código e añadir tantas cosas como pueda. Cada personaje tendrá su reacción (por ejemplo: feliz cuando haya acertado más de 5 preguntas, neutral si ha acertado 5, enfadado si ha acertado menos de 5, etc.)  
   
 Por supuesto, le daré al jugador varias opciones al principio del juego, como el idioma, los gráficos, etc.  
+  
+El proyecto me llevará entre 35-60 horas, potencialmente ampliándolo incluso más si llego a tener tiempo de pulirlo, porque siempre se pueden añadir más cosas en este tipo de juegos.
